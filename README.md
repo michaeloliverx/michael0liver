@@ -14,4 +14,4 @@ I'm a full stack developer!
   
 ## Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael0liver&show_icons=true&count_private=truebg_color=00000000&text_color=777)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeloliverx&show_icons=true&count_private=truebg_color=00000000&text_color=777)
